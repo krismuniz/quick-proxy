@@ -43,5 +43,5 @@ $ npm install
 #### Start the server with `URL` and `PORT` environment variables
 
 ```bash
-$ npm start URL=http://example.com PORT=3000
+$ URL=http://example.com PORT=3000 npm start
 ```
