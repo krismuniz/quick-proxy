@@ -45,3 +45,7 @@ $ npm install
 ```bash
 $ URL=http://example.com PORT=3000 npm start
 ```
+
+## License
+
+[MIT](https://github.com/krismuniz/quick-proxy/blob/master/LICENSE.md) © [Kristian Muñiz](https://www.krismuniz.com)
