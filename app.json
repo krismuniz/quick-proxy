@@ -1,7 +1,7 @@
 {
   "name": "Quick Proxy",
   "description": "Quickly spin up an HTTP proxy for a given target",
-  "repository": "https://github.com/krismuniz/vott.git",
+  "repository": "https://github.com/krismuniz/quick-proxy.git",
   "logo": "https://cdn.glitch.com/dfa8f0f4-3aa2-4965-bcbd-47b5a65ede19%2FQP.png?1501538634283",
   "env": {
     "URL": {
