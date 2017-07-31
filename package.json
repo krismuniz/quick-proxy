@@ -1,0 +1,27 @@
+{
+  "name": "quick-proxy",
+  "version": "1.0.0",
+  "description": "Quickly spin up an HTTP proxy for your app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.3",
+    "express-http-proxy": "^1.0.6",
+    "morgan": "^1.8.2"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/krismuniz/quick-proxy.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "express",
+    "proxy"
+  ]
+}
